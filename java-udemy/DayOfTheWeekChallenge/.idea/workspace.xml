@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ed8335d-c837-4be0-9810-36e64ca77fba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgB2ovJhR9QWJLLdC99tqeXA72" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.NumbersOfDaysInMonth">
+    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
+      <module name="DayOfTheWeekChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberInWord" />
+      <module name="DayOfTheWeekChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersOfDaysInMonth" />
+      <module name="DayOfTheWeekChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumbersOfDaysInMonth" />
+        <item itemvalue="Application.NumberInWord" />
+        <item itemvalue="Application.DayOfTheWeekChallenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed8335d-c837-4be0-9810-36e64ca77fba" name="Default Changelist" comment="" />
+      <created>1579561152519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579561152519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="863" y="202" width="811" height="669" key="#Project_Structure" timestamp="1579561164130">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="863" y="202" width="811" height="669" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1579561164130" />
+    <state width="791" height="280" key="GridCell.Tab.0.bottom" timestamp="1579626723648">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579567852043" />
+    <state width="791" height="280" key="GridCell.Tab.0.bottom/1680.23.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1579626723648" />
+    <state width="791" height="280" key="GridCell.Tab.0.center" timestamp="1579626723647">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579567852042" />
+    <state width="791" height="280" key="GridCell.Tab.0.center/1680.23.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1579626723647" />
+    <state width="791" height="280" key="GridCell.Tab.0.left" timestamp="1579626723647">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579567852042" />
+    <state width="791" height="280" key="GridCell.Tab.0.left/1680.23.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1579626723647" />
+    <state width="791" height="280" key="GridCell.Tab.0.right" timestamp="1579626723648">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579567852043" />
+    <state width="791" height="280" key="GridCell.Tab.0.right/1680.23.3440.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1579626723648" />
+    <state x="683" y="175" key="SettingsEditor" timestamp="1579561879912">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="683" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579561879912" />
+  </component>
+</project>
