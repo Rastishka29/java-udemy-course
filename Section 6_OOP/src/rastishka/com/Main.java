@@ -40,5 +40,51 @@ public class Main {
 		System.out.println("teen= " + person.isTeen());
 		person.setLastName("Smith");
 		System.out.println("fullName= " + person.getFullName());
-    }
+
+		// Constructors. Bank Account challenge.
+
+		BankAccount felixBankAccount = new BankAccount("2907", 2900.500,
+				"Felix Konovalenko", "felix@gmail.com", "+380931234567"
+				);
+		System.out.println("account name is " + felixBankAccount.getCustomerName());
+		System.out.println("account number is " + felixBankAccount.getAccountNumber());
+		System.out.println("account balance is " + felixBankAccount.getBalance());
+		felixBankAccount.depositFunds(1300.30);
+		felixBankAccount.depositFunds(-1300.30);
+		System.out.println("account balance is " + felixBankAccount.getBalance());
+		felixBankAccount.withdrawFunds(1999.00);
+		System.out.println("account balance is " + felixBankAccount.getBalance());
+		felixBankAccount.withdrawFunds(5000.00);
+		System.out.println("account balance is " + felixBankAccount.getBalance());
+		felixBankAccount.withdrawFunds((2201.8));
+		System.out.println("account balance is " + felixBankAccount.getBalance());
+
+		BankAccount defaultBankAccount = new BankAccount();
+		System.out.println("account name is " + defaultBankAccount.getCustomerName());
+		System.out.println("account number is " + defaultBankAccount.getAccountNumber());
+		System.out.println("account balance is " + defaultBankAccount.getBalance());
+
+		BankAccount benAccount = new BankAccount("Ben","ben@gmail.com",
+				"+380939876543");
+		System.out.println("account name is " + benAccount.getCustomerName());
+		System.out.println("account number is " + benAccount.getAccountNumber());
+		System.out.println("account balance is " + benAccount.getBalance());
+
+		// Vip Customer Challenge
+
+		VipCustomer defaultCustomer = new VipCustomer();
+		System.out.println("Customer name " + defaultCustomer.getCustomerName());
+		System.out.println("Customer name " + defaultCustomer.getCustomerEmail());
+		System.out.println("Customer name " + defaultCustomer.getCreditLimit());
+
+		VipCustomer vovaCustomer = new VipCustomer("Vova", "vova@gmail.com");
+		System.out.println("Customer name " + vovaCustomer.getCustomerName());
+		System.out.println("Customer name " + vovaCustomer.getCustomerEmail());
+		System.out.println("Customer name " + vovaCustomer.getCreditLimit());
+
+		VipCustomer olgaCustomer = new VipCustomer("Olga", 50000.00, "olga@gmail.com");
+		System.out.println("Customer name " + olgaCustomer.getCustomerName());
+		System.out.println("Customer name " + olgaCustomer.getCustomerEmail());
+		System.out.println("Customer name " + olgaCustomer.getCreditLimit());
+	}
 }
