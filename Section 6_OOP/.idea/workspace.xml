@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f438f1a-2d98-405a-90c9-0ffefe8cb00e" name="Default Changelist" comment="Updated project folder structure.">
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/ComplexNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/VipCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Classes/rastishka/com/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/ComplexNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/VipCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Classes/out/production/Section 6_OOP/rastishka/com/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/out/production/Inheritance/rastishka/com/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/out/production/Inheritance/rastishka/com/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/out/production/Inheritance/rastishka/com/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/out/production/Inheritance/rastishka/com/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/src/rastishka/com/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/src/rastishka/com/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/src/rastishka/com/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 6/Inheritance/src/rastishka/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 6_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/VipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rastishka/com/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 6/Classes/src/rastishka/com/Wall.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ce8yQ2yJUSdsVFps1iqwL7puYo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Section 6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="rastishka.com.Main" />
+      <module name="Classes" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f438f1a-2d98-405a-90c9-0ffefe8cb00e" name="Default Changelist" comment="" />
+      <created>1590877952988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590877952988</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Section 6. OOP, Classes.">
+      <created>1590879734388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590879734388</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Section 6. OOP, Classes.&#10;Coding Exercise 29 SimpleCalculator&#10;Coding Exercise 30. Person">
+      <created>1590883469141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590883469141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lessons 78-79 - Constructors.&#10;Coding challenges - Bank Account, Vip customer.">
+      <created>1590971358033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590971358033</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Coding exercise 31. Wall area.">
+      <created>1590972790723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590972790723</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Coding exercise 32. Point">
+      <created>1591247167045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591247167045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Coding Exercise 33. Carpet Cost Calculator">
+      <created>1591249784109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591249784109</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Coding Exercise 34. ComplexNumber challenge.">
+      <created>1591333220854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591333220854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Coding Exercise 34. ComplexNumber challenge.">
+      <created>1591333259579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591333259579</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 6. OOP, Classes." />
+    <MESSAGE value="Section 6. OOP, Classes.&#10;Coding Exercise 29 SimpleCalculator&#10;Coding Exercise 30. Person" />
+    <MESSAGE value="Lessons 78-79 - Constructors.&#10;Coding challenges - Bank Account, Vip customer." />
+    <MESSAGE value="Coding exercise 31. Wall area." />
+    <MESSAGE value="Coding exercise 32. Point" />
+    <MESSAGE value="Coding Exercise 33. Carpet Cost Calculator" />
+    <MESSAGE value="Coding Exercise 34. ComplexNumber challenge." />
+    <MESSAGE value="Updated project folder structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated project folder structure." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="202" key="#Notifications" timestamp="1591244504100">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" key="#Notifications/0.23.1680.1027@0.23.1680.1027" timestamp="1591244504100" />
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1591331123694">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1591331123694" />
+    <state x="432" y="139" key="CommitChangelistDialog2" timestamp="1591766080788">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="432" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1591766080788" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1590879673940">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590879673940" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1591765501101">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591765501101" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1591765501100">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591765501100" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1591765501099">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591765501099" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1591765501100">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591765501100" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1591333584969">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1591333584969" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1591333261555">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1591333261555" />
+    <state x="100" y="123" width="1480" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590878115239">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590878115239" />
+    <state x="217" y="159" key="new project wizard" timestamp="1591333547074">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="217" y="159" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1591333547074" />
+    <state x="570" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590880361190">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="570" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590880361190" />
+  </component>
+</project>
