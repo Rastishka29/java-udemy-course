@@ -17,7 +17,7 @@ public class Vehicle {
         this.direction = 0;
     }
 
-    public void controlling(){
+    public void controlling(int direction){
         this.direction += direction;
         System.out.println("Vehicle.Controlling() called. Moving at " + direction + " degrees.");
     }
